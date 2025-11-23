@@ -18,7 +18,7 @@ This repository contains code, notebooks, and resources for the SIC AI project, 
 ## Getting Started
 1. Clone the repository:
    ```zsh
-   git clone https://github.com/hmzi67/music.git
+  [ git clone https://github.com/hmzi67/music.git](https://github.com/hmzi67/sci-ai-course)
    ```
 2. Install required Python packages (see individual notebooks for dependencies).
 3. Open notebooks in Jupyter or VS Code and follow instructions within each notebook.
