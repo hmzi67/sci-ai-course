@@ -1,0 +1,13 @@
+# Ignore data directories
+/data/
+/data_fashion/
+/extracted_samples/
+/pickles/
+/pt-saves/
+
+# Ignore model files
+finetuned_model.pth
+pretrained_model.pth
+qmnist_mobile.pt
+qmnist.pth
+task_vector.pth

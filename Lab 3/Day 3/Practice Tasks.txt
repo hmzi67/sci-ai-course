@@ -1,0 +1,27 @@
+Task 1: 
+
+Given the following 2D NumPy array:
+
+arr = np.array([[1, 2, 3], [4, 5, 6]])
+Transpose the array and print the result.
+
+*******************
+
+Task 2: Accessing Elements in a 2D NumPy Array
+Given the following 2D NumPy array:
+arr = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
+Use indexing to:
+
+Access the element at row 1, column 2 and print its value.
+Access the entire second row and print its values.
+Access the entire first column and print its values.
+
+**********************************
+
+Task 3: 
+Given the following 1D NumPy array:
+
+x = np.array([1, 2, 3, 4, 5])
+
+Compute the Euclidean norm (L2 norm) of the array and print its value.
+

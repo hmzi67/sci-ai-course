@@ -1,0 +1,43 @@
+
+Task 1:
+
+Create a new plot that displays the cosine function (z = np.cos(x)) in blue color with a dashed line style, 
+along with the sine function (y = np.sin(x)) in red color with a solid line style. 
+Use the same x-axis range (0 to 10) and add appropriate labels and title to the plot.
+
+
+*********************
+
+Task 2:
+
+Create a new figure with three subplots, where each subplot displays a different function:
+
+Subplot 1: y = np.sin(x)
+Subplot 2: z = np.cos(x)
+Subplot 3: w = np.sin(x) + np.cos(x)
+Use the same x-axis range (0 to 10) and add appropriate labels and titles to each subplot. 
+Make the subplots have equal widths and heights.
+
+************************
+
+Task 3:
+
+Create a new plot that displays the sine 
+function (y = np.sin(x)) in the range of 0 to 20, 
+with x-axis 
+tick labels appearing at every 5 units. 
+Additionally, add a horizontal grid line at y = 0.
+
+
+*************
+
+Task 4:
+
+Modify the code to create a new figure with two subplots, 
+where the first subplot displays 
+the sine function (y = np.sin(x)) and the second subplot 
+displays the cosine function (z = np.cos(x)) in the 
+range of 0 to 10. However, this time, make the subplots 
+have different widths. Specifically, 
+make the first subplot occupy 40% of the figure width 
+and the second subplot occupy 60% of the figure width.
